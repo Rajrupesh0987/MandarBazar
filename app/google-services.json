@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "166598751270",
+    "project_id": "shobhanpur-market",
+    "storage_bucket": "shobhanpur-market.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166598751270:android:6f133d4f9136ca5beaa2e7",
+        "android_client_info": {
+          "package_name": "com.rupesh.mandarbazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166598751270-co95bidm8epngjdlrcpd142734can1or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rupesh.mandarbazar",
+            "certificate_hash": "a6047b6b9746ec1b82b68b4c2ecca171ce852c88"
+          }
+        },
+        {
+          "client_id": "166598751270-p0edp0ld4c0bsc324emrkf4ec7ckos6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rupesh.mandarbazar",
+            "certificate_hash": "a6047b6b4a2ab573c62940024f9d69b30a8488ea"
+          }
+        },
+        {
+          "client_id": "166598751270-6cnf45o6crit2u8esdideiulj064tijc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJCOTOzWzfIKitrIu3Gpo9yma3V5VHL4"
+        },
+        {
+          "current_key": "AIzaSyCDD6cBgIWpYRNm9gizMcYOVvzcWGM3CuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166598751270-6cnf45o6crit2u8esdideiulj064tijc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166598751270:android:4c893cb780cdd4e6eaa2e7",
+        "android_client_info": {
+          "package_name": "com.rupesh.shobhanpurapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166598751270-6cnf45o6crit2u8esdideiulj064tijc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJCOTOzWzfIKitrIu3Gpo9yma3V5VHL4"
+        },
+        {
+          "current_key": "AIzaSyCDD6cBgIWpYRNm9gizMcYOVvzcWGM3CuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166598751270-6cnf45o6crit2u8esdideiulj064tijc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166598751270:android:ec462fd3415ec0b5eaa2e7",
+        "android_client_info": {
+          "package_name": "com.rupesh.shobhanpurmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166598751270-6cnf45o6crit2u8esdideiulj064tijc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJCOTOzWzfIKitrIu3Gpo9yma3V5VHL4"
+        },
+        {
+          "current_key": "AIzaSyCDD6cBgIWpYRNm9gizMcYOVvzcWGM3CuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166598751270-6cnf45o6crit2u8esdideiulj064tijc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
